@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vacasJunio/Grupo17/pruebareact/static/css/main.08ea6888.chunk.css",
+    "main.js": "/vacasJunio/Grupo17/pruebareact/static/js/main.6b7f52a5.chunk.js",
+    "main.js.map": "/vacasJunio/Grupo17/pruebareact/static/js/main.6b7f52a5.chunk.js.map",
+    "runtime-main.js": "/vacasJunio/Grupo17/pruebareact/static/js/runtime-main.991e9c32.js",
+    "runtime-main.js.map": "/vacasJunio/Grupo17/pruebareact/static/js/runtime-main.991e9c32.js.map",
+    "static/js/2.b63fcc59.chunk.js": "/vacasJunio/Grupo17/pruebareact/static/js/2.b63fcc59.chunk.js",
+    "static/js/2.b63fcc59.chunk.js.map": "/vacasJunio/Grupo17/pruebareact/static/js/2.b63fcc59.chunk.js.map",
+    "index.html": "/vacasJunio/Grupo17/pruebareact/index.html",
+    "static/css/main.08ea6888.chunk.css.map": "/vacasJunio/Grupo17/pruebareact/static/css/main.08ea6888.chunk.css.map",
+    "static/js/2.b63fcc59.chunk.js.LICENSE.txt": "/vacasJunio/Grupo17/pruebareact/static/js/2.b63fcc59.chunk.js.LICENSE.txt",
+    "static/media/logo-fiusac.e9c919d6.png": "/vacasJunio/Grupo17/pruebareact/static/media/logo-fiusac.e9c919d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.991e9c32.js",
+    "static/js/2.b63fcc59.chunk.js",
+    "static/css/main.08ea6888.chunk.css",
+    "static/js/main.6b7f52a5.chunk.js"
+  ]
+}

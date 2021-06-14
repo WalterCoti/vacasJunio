@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/vacasJunio/static/css/main.08ea6888.chunk.css",
-    "main.js": "/vacasJunio/static/js/main.1c6cc1f1.chunk.js",
-    "main.js.map": "/vacasJunio/static/js/main.1c6cc1f1.chunk.js.map",
+    "main.js": "/vacasJunio/static/js/main.f06e130d.chunk.js",
+    "main.js.map": "/vacasJunio/static/js/main.f06e130d.chunk.js.map",
     "runtime-main.js": "/vacasJunio/static/js/runtime-main.ca52f2e3.js",
     "runtime-main.js.map": "/vacasJunio/static/js/runtime-main.ca52f2e3.js.map",
-    "static/js/2.df29cf33.chunk.js": "/vacasJunio/static/js/2.df29cf33.chunk.js",
-    "static/js/2.df29cf33.chunk.js.map": "/vacasJunio/static/js/2.df29cf33.chunk.js.map",
+    "static/js/2.3a0d2084.chunk.js": "/vacasJunio/static/js/2.3a0d2084.chunk.js",
+    "static/js/2.3a0d2084.chunk.js.map": "/vacasJunio/static/js/2.3a0d2084.chunk.js.map",
     "index.html": "/vacasJunio/index.html",
     "static/css/main.08ea6888.chunk.css.map": "/vacasJunio/static/css/main.08ea6888.chunk.css.map",
-    "static/js/2.df29cf33.chunk.js.LICENSE.txt": "/vacasJunio/static/js/2.df29cf33.chunk.js.LICENSE.txt",
+    "static/js/2.3a0d2084.chunk.js.LICENSE.txt": "/vacasJunio/static/js/2.3a0d2084.chunk.js.LICENSE.txt",
+    "static/media/Usac_Logo.png": "/vacasJunio/static/media/Usac_Logo.1eb9f308.png",
     "static/media/logo-fiusac.e9c919d6.png": "/vacasJunio/static/media/logo-fiusac.e9c919d6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca52f2e3.js",
-    "static/js/2.df29cf33.chunk.js",
+    "static/js/2.3a0d2084.chunk.js",
     "static/css/main.08ea6888.chunk.css",
-    "static/js/main.1c6cc1f1.chunk.js"
+    "static/js/main.f06e130d.chunk.js"
   ]
 }

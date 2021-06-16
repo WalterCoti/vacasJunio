@@ -112,7 +112,6 @@ const ListaSimple = () =>{
                 </td>
                 <td>
                     <input type={"Button"} id={"btnAdd"} value={"Agregar"}/>
-                    <Button variant="contained">Agregar</Button>
                 </td>
                 <td>
                     <input type={"Button"} id={"btnAdd_ini"} value={"Agregar al Inicio"}/>
